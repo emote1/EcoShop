@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EcoShop</string>
+    <string name="send">send</string>
+    <string name="text">Text</string>
+    <string name="name">Name</string>
+
+    <string name="user_name">User Name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="todo">TODO</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="your_email">Your Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_upp">Sign Up</string>
+    <string name="your_name">Your Name</string>
+    <string name="tap_to_log_in">Tap To Log In</string>
+    <string name="your_password">Your password.</string>
+</resources>

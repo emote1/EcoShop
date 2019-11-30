@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152385589957",
+    "firebase_url": "https://eco-pood.firebaseio.com",
+    "project_id": "eco-pood",
+    "storage_bucket": "eco-pood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152385589957:android:0a1fbfe85cccd7a2ae56ac",
+        "android_client_info": {
+          "package_name": "com.example.ecoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152385589957-66vk1p9rg6ocpjctgldp4ou99aihicnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecoshop",
+            "certificate_hash": "a59182e26b7fe690e221b0d8f838ed5d19689632"
+          }
+        },
+        {
+          "client_id": "152385589957-2b3l6i211o3l8biopl1u0gls42tts11f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAas1tWOSZQNLIBJISSOdW52bPPGQBZj1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152385589957-2b3l6i211o3l8biopl1u0gls42tts11f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
