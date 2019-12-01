@@ -8,6 +8,7 @@ public class MessageOp {
    private String recipient;
    private String ImageUrl;
    private boolean isMine;
+   private String loh;
 
     public MessageOp() {
 
